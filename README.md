@@ -2,7 +2,7 @@
 
 如果你还没有注册，可以通过一下链接去注册：https://backpack.exchange/refer/51bitquant
 
-刷交易量获得打新空投的机会， 最近传言 Backpack 要上Wormhole或者Tensor的IEO项目。
+刷交易量获得打新空投的机会， 最近传言 Backpack 要上Wormhole或者Tensor的IDO/IEO项目。
 
 # 如何使用
 
@@ -31,7 +31,6 @@ self.proxies = {
 }
 
 ```
-
 # 注意
 刷交易量会有手续费和滑点的损耗，滑点比较下，主要是手续费, 千分之1手续费的损耗, 滑点相对较小， 交易SOL_UDSC 滑点在万一以下下。
 另外， 改脚本只是用户刷简道的刷交易量，博取空投的或者打新的分配额度。具体请看代码。使用前，请注意风险。
